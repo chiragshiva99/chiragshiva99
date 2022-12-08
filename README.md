@@ -1,8 +1,13 @@
 # <div align="center"> Hey, I'm Chirag Shivakumar!😊  </div>
+<br/>  
+
 
 ## I'm an Undergraduate student at SUTD and I'm pursuing a Business Analytics Major and a Computer Science Minor.
+<br/>  
+
 - 🔭  I'm currently interning @ IBM as a Data and Full Stack Intern!  
 - 🌱 I’m currently learning Data Analysis and Web Development!  
+<br/>  
 
 ## <div align="center">My Skill Set </div> 
 <table><tr><td valign="top" width="33%">
