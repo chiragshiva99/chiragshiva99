@@ -50,7 +50,8 @@
 
 
 # <div align="center">Take a look at my Github Stats!</div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragshiva99&show_icons=true&locale=en&layout=compact" alt="chiragshiva99" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragshiva99&show_icons=true&locale=en" 
+alt="chiragshiva99" align="center" /></div>  
 <br/>  
 
 
