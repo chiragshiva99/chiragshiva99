@@ -1,18 +1,14 @@
 # <div align="center"> Hey, I'm Chirag Shivakumar!😊  </div>
-<br/>  
-
 
 ## I'm an Undergraduate student at SUTD and I'm pursuing a Business Analytics Major and a Computer Science Minor.
+- 🔭  I'm currently interning @ IBM as a Data and Full Stack Intern!  
+- 🌱 I’m currently learning Data Analysis and Web Development! 
+
 <br/>  
 
-- 🔭  I'm currently interning @ IBM as a Data and Full Stack Intern!  
-- 🌱 I’m currently learning Data Analysis and Web Development!  
-<br/>  
 
 ## <div align="center">My Skill Set </div> 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### <div align="center">Frontend Web Development</div> 
 <div align="center">  
@@ -47,13 +43,13 @@
 <br/>  
 
 
-## Take a look at my Github Stats!
+## <div align="center">Take a look at my Github Stats!</div> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chiragshiva99&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## Take a look at my Spotify Music! 
+## <div align="center">Take a look at my Spotify Music! </div> 
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21ctvxlnsdpu2lntenbycdcli&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 <br/>  
@@ -64,7 +60,7 @@
 <br/>  
 
 
-## Follow me!😊
+## <div align="center">Follow me!😊</div> 
 <a href="https://github.com/chiragshiva99" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
