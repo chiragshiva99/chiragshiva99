@@ -49,16 +49,6 @@
 <br/>  
 
 
-# <div align="center">Take a look at my Spotify Music! </div>  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21ctvxlnsdpu2lntenbycdcli&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=chiragshiva99&&style=flat-square" align="center" />
-</div>  
-<br/>  
-
-
 # <div align="center">Follow me!😊</div> 
 <a href="https://github.com/chiragshiva99" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -84,5 +74,15 @@
 <a href="https://www.kaggle.com/chiragshiva99" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
+<br/>  
+
+
+# <div align="center">Take a look at my Spotify Music! </div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21ctvxlnsdpu2lntenbycdcli&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=chiragshiva99&&style=flat-square" align="center" />
+</div> 
 
 ----
