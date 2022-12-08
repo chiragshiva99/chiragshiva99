@@ -45,10 +45,10 @@
 
 
 # <div align="center">Take a look at my Github Stats!</div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chiragshiva99&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chiragshiva99&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>   
 <br/> 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragshiva99&show_icons=true&locale=en" 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragshiva99&show_icons=true&locale=en&theme=radical" 
 alt="chiragshiva99" align="center" /></div>  
 <br/>  
 
