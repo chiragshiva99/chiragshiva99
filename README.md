@@ -29,14 +29,6 @@
 ## <div align="center">I'm an Undergraduate student at SUTD and I'm pursuing a Business Analytics Major and a Computer Science Minor.</div>  
 - 🔭  I'm currently interning @ IBM as a Data and Full Stack Intern!  
 - 🌱 I’m currently learning Data Analysis and Web Development!  
-<br/>  
-
-As my profound awareness grew about the Fintech industry, I've developed interests in statistical data science, predictive analysis and optimisation. 
-
-Over the last few months, I've enhanced my programming and data skills by participating in several Technology-Stack and Analytics projects using R, SQL, Python and Django. I've also participated in various finance competitions involving analysing Global MNCs qualitatively and quantitatively. 
-
-As a self-driven individual, I am more than willing to learn new professional skills and am open to internship opportunities in the fields of data, technology and finance. 
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
