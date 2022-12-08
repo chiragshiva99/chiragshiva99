@@ -1,10 +1,5 @@
-## Hey, I'm Chirag Shivakumar!😊  
+## <div align="center"> Hey, I'm Chirag Shivakumar!😊  </div>
   
-## <div align="center">I'm an Undergraduate student at SUTD and I'm pursuing a Business Analytics Major and a Computer Science Minor.</div>  
-- 🔭  I'm currently interning @ IBM as a Data and Full Stack Intern!  
-- 🌱 I’m currently learning Data Analysis and Web Development!  
-<br/>  
-
 <a href="https://github.com/chiragshiva99" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -29,6 +24,12 @@
 <a href="https://www.kaggle.com/chiragshiva99" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
+
+
+## <div align="center">I'm an Undergraduate student at SUTD and I'm pursuing a Business Analytics Major and a Computer Science Minor.</div>  
+- 🔭  I'm currently interning @ IBM as a Data and Full Stack Intern!  
+- 🌱 I’m currently learning Data Analysis and Web Development!  
+<br/>  
 
 As my profound awareness grew about the Fintech industry, I've developed interests in statistical data science, predictive analysis and optimisation. 
 
