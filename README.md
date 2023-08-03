@@ -2,7 +2,7 @@
 
 ## I'm an Undergraduate student at SUTD and I'm pursuing a Business Analytics Major and a Computer Science Minor.
 - 🌱 I’m currently learning Data Analysis and Web Development! 
-- 📫 How to reach me: email me at chirag_shivakumar@mymail.sutd.edu.sg
+- 📫 How to reach me: email me at chiragshivakumar@gmail.com
 
 <br/>  
 
@@ -47,7 +47,6 @@
 
 
 # <div align="center">Take a look at my Github Stats!</div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chiragshiva99&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>   
 <br/> 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragshiva99&show_icons=true&locale=en&theme=radical" 
